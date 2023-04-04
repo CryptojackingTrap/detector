@@ -15,8 +15,9 @@ import java.util.List;
  * <p>
  * We use the file created by:
  *
- * @see RandomFileGenerator in Cryptojackingtrap-dataset repository to create random data for monitor read memory
- * access data
+ * @see "RandomFileGenerator" in dataset module in Cryptojackingtrap-dataset repository to create random data for
+ * monitor
+ * read memory access data
  */
 public class FalsePositiveCalculatorForPureRandomFile {
     private static final String PATH = "C:\\D\\Workspace\\Cryptojackingtrap-Main-Workspace\\cryptojackingtrap-detector\\src\\test\\resources\\sample-data\\random-generated-data\\";
