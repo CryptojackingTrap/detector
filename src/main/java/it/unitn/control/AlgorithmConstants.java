@@ -26,7 +26,7 @@ public class AlgorithmConstants {
      * the next hash occurrence and if this value is not greater than the following value we include them as
      * acceptable hash occurrence.
      */
-    public static Integer MAX_HASH_LINE_WINDOW = 700000;
+    public static Integer MAX_HASH_LINE_WINDOW = 7000000;
 
     /**
      * A positive number (expected to be equal or greater than one). This number is used for detecting the mining
